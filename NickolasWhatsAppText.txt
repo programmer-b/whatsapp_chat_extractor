@@ -1,0 +1,141 @@
+03/09/2022, 07:43 - Nickolas: *DEADLINE APPROACHING:*Looking for students in tech (computer science courses) who are in 3rd/4th year and are set to graduate in 2023/2024. Share with youth to apply via WEMA Platform. https://wema.redcrossyouth.or.ke/opportunities/code-for-good-africa/WEMA | Do Good, Volunteer07/09/2022, 06:52 - Nickolas: *WHY EVERYONE SEEMS TO BE DOING BETTER THAN YOU*Back in college, I used to be the most confident guy around. Always attending all lectures and getting top grades. By third-year, I had managed to get myself a part-time job which meant I was above most of my classmates (financially-speaking). And on top of that, I managed to get a full-time job just a few days before sitting for my final exams. I did not “tarmac” and unlike my former classmates, I did not have to knock on endless doors hoping for a miracle.But my wave of success was short-lived, or so it seems, because just a few years down the line, the once broke guys started cruising around town with big 4×4 SUVs. The ladies who I used to ignore suddenly became social media sensations – attracting numerous followers with each photo they posted on Instagram.Suddenly, everyone seemed to be doing better than me. I was treated to glamour and grandiose everywhere I looked… a life that was clearly beyond my means. This is despite the fact that I was working extremely hard in my middle-income job and trying my level best to save as much as possible.My life seemed cold and deserted. I didn’t have much to talk about. I didn’t have such a colourful or even dramatic life to share on my social media pages either…Does this story sound familiar? Well, if you think “YES that’s me” you probably would like to find out what changed. And as it turns out, you could be more of a victim of perceptions than reality.*(1) They Are Investing In Flossets, You are Investing In Assets*As much as you are trying your best to grow financially, your money is tied up in silent investments (e.g. treasury bonds, stocks, land, unit trusts etc) which means not many people will have an idea how much you are worth unless you actually tell them.As you tie your money in investment, there are those who are busy buying flossets. They are busy buying the latest fashion, watches and booking expensive holiday destinations. Flossets shout, assets are silent.But remember in the long-run, it is the wise investment decisions you make today that matter. Your time to shine is coming.*(2) Their Phone Has A Better Camera Than Yours*Chances are that, even though you are more successful than them, they own better phones than you. By capturing more visually stimulating photos and captioning them with nice words, they may appear like they are more successful than you but in reality they are just another lot of overhyped individuals.You know, social media has the power to make small things look big and less important things look important. Don’t let the sheer numbers of the comments posted beneath their heavily filtered photos scare you.They are doing that for self-validation and you have no business trying to out-perform them in that. Look at the world’s most successful people like Bill Gates and Mark Zuckerberg. You rarely see them bragging about their money or luxury items in public.*(3) They Have Just Settled Into Marriage And Are Excited*If you are single or in a mature relationship, there is a possibility that you will not have much to talk about as far as relationships are concerned. Your friends on the other hand may have just settled into a new relationship or marriage.As usual, new relationships are all about excitement and glamour. As such, you might feel like you are not doing so well in life because of this difference. It’s important to remember that this excitement and hype tends to die over time.How many celebrities have we seen spending millions on fancy weddings only to divorce in less than 6 months? Don’t let this short-lived excitement make you lose your mind.If you have decided to stay single until your business grows to a level that it can accommodate your family, don’t look back on that decision. Likewise, if you have been in a successful but less than colourful relationship that has helped you grow as a person, stay put, a great future awaits.*(4) You Are Stuck In An Unrewarding Career*Perhaps the reason why everyone seems to be doing better in life than you is more of a reality than an illusion. It could be that you are stuck in a bad job with a mediocre salary.If in business, it could be that you are in an industry that isn’t providing enough room for you to scale-up. Take time to re-evaluate your options. Most importantly, remember that you are highly talented and there’s is nothing that can stop you from writing a new chapter in your life.Stuck in an unrewarding job or business? Sometimes all you need is to jump off that twig and learn to fly away mid-air.*(5) They Most Likely Have A Terrible Debt To Equity Ratio*Most people live a lie. They drive big cars on loans that take them years to clear. They live in lavish apartments that they can barely afford to pay rent for. Others merely survive by relying on their family wealth and inheritance.While it may seem like they are doing better than you, you might be shocked to find out that they are spending sleepless nights hiding from creditors. You might be shocked to learn that they have stuck in a vicious cycle of poverty with no light at the end of the tunnel. The best kind of growth is the one that comes gradually.Much as it is good to fuel your growth through credit-finance, always make sure you have a healthy debt to equity ratio. This will help you enjoy life more, be more stable, achieve a better credit rating and above all achieve long-term financial success.*Final Word*Have you ever found yourself at a point when you felt like everyone else was doing better than you? Well, always remember that:(1) Your best is yet to come(2) There are so many reasons to be grateful(3) At least you are not living a lie(4) You have got everything it takes to succeed(5) Life is a marathon, not a sprint.And again don't ever compare your success and failure and status to that of others. It won't do you any good.Justine NyachieoBusiness Man & Mentor+25475483922812/09/2022, 16:59 - Nickolas: We should make sure he's compensated for his work, we all know how much a mobile application is worth, the university should put something into our boy's pocket, unless they have done so already... Kudos Dun...25/09/2022, 15:02 - Nickolas: IMG-20220925-WA0004.jpg (file attached)Hello guys, kindly help me tackle this...25/09/2022, 15:03 - Nickolas: import java.io.File;import java.io.FileNotFoundException;import java.util.Scanner;import java.util.regex.Matcher;import java.util.regex.Pattern;class FileReader{	public static void main(String[] args){		try{			File myObj = new File("filename.txt");            Scanner myReader = new Scanner(myObj);						while(myReader.hasNextLine()){				String data = myReader.nextLine();			    Pattern pattern = Pattern.compile("12/09/2022", Pattern.CASE_INSENSITIVE);			    Matcher matcher = pattern.matcher("filename.txt");                boolean matchFound = matcher.find();				if(matchFound){            System.out.println("Match found");        }        else{            System.out.println("Match not found");        }         System.out.println(data);   		}		myReader.close();		}		catch(FileNotFoundException e) {			System.out.println("An error occured");            e.printStackTrace();		}	}}25/09/2022, 15:03 - Nickolas: This is how far I've gone...25/09/2022, 16:21 - Nickolas: There are many ways it depends on how what you're centering26/09/2022, 10:21 - Nickolas: Anyone...03/09/2022, 07:43 - Nickolas: *DEADLINE APPROACHING:*
+Looking for students in tech (computer science courses) who are in 3rd/4th year and are set to graduate in 2023/2024. 
+
+Share with youth to apply via WEMA Platform. 
+https://wema.redcrossyouth.or.ke/opportunities/code-for-good-africa/
+
+WEMA | Do Good, Volunteer
+07/09/2022, 06:52 - Nickolas: *WHY EVERYONE SEEMS TO BE DOING BETTER THAN YOU*
+
+Back in college, I used to be the most confident guy around. Always attending all lectures and getting top grades. 
+
+By third-year, I had managed to get myself a part-time job which meant I was above most of my classmates (financially-speaking). 
+
+And on top of that, I managed to get a full-time job just a few days before sitting for my final exams. 
+
+I did not “tarmac” and unlike my former classmates, I did not have to knock on endless doors hoping for a miracle.
+
+But my wave of success was short-lived, or so it seems, because just a few years down the line, the once broke guys started cruising around town with big 4×4 SUVs. 
+
+The ladies who I used to ignore suddenly became social media sensations – attracting numerous followers with each photo they posted on Instagram.
+
+Suddenly, everyone seemed to be doing better than me. I was treated to glamour and grandiose everywhere I looked… a life that was clearly beyond my means. 
+
+This is despite the fact that I was working extremely hard in my middle-income job and trying my level best to save as much as possible.
+
+My life seemed cold and deserted. I didn’t have much to talk about. I didn’t have such a colourful or even dramatic life to share on my social media pages either…
+
+Does this story sound familiar? 
+
+Well, if you think “YES that’s me” you probably would like to find out what changed. And as it turns out, you could be more of a victim of perceptions than reality.
+
+*(1) They Are Investing In Flossets, You are Investing In Assets*
+
+As much as you are trying your best to grow financially, your money is tied up in silent investments (e.g. treasury bonds, stocks, land, unit trusts etc) which means not many people will have an idea how much you are worth unless you actually tell them.
+
+As you tie your money in investment, there are those who are busy buying flossets. They are busy buying the latest fashion, watches and booking expensive holiday destinations. Flossets shout, assets are silent.
+
+But remember in the long-run, it is the wise investment decisions you make today that matter. Your time to shine is coming.
+
+*(2) Their Phone Has A Better Camera Than Yours*
+
+Chances are that, even though you are more successful than them, they own better phones than you. By capturing more visually stimulating photos and captioning them with nice words, they may appear like they are more successful than you but in reality they are just another lot of overhyped individuals.
+
+You know, social media has the power to make small things look big and less important things look important. Don’t let the sheer numbers of the comments posted beneath their heavily filtered photos scare you.
+
+They are doing that for self-validation and you have no business trying to out-perform them in that. Look at the world’s most successful people like Bill Gates and Mark Zuckerberg. You rarely see them bragging about their money or luxury items in public.
+
+*(3) They Have Just Settled Into Marriage And Are Excited*
+
+If you are single or in a mature relationship, there is a possibility that you will not have much to talk about as far as relationships are concerned. Your friends on the other hand may have just settled into a new relationship or marriage.
+
+As usual, new relationships are all about excitement and glamour. As such, you might feel like you are not doing so well in life because of this difference. It’s important to remember that this excitement and hype tends to die over time.
+
+How many celebrities have we seen spending millions on fancy weddings only to divorce in less than 6 months? Don’t let this short-lived excitement make you lose your mind.
+
+If you have decided to stay single until your business grows to a level that it can accommodate your family, don’t look back on that decision. 
+
+Likewise, if you have been in a successful but less than colourful relationship that has helped you grow as a person, stay put, a great future awaits.
+
+*(4) You Are Stuck In An Unrewarding Career*
+
+Perhaps the reason why everyone seems to be doing better in life than you is more of a reality than an illusion. It could be that you are stuck in a bad job with a mediocre salary.
+
+If in business, it could be that you are in an industry that isn’t providing enough room for you to scale-up. Take time to re-evaluate your options. Most importantly, remember that you are highly talented and there’s is nothing that can stop you from writing a new chapter in your life.
+
+Stuck in an unrewarding job or business? Sometimes all you need is to jump off that twig and learn to fly away mid-air.
+
+*(5) They Most Likely Have A Terrible Debt To Equity Ratio*
+
+Most people live a lie. They drive big cars on loans that take them years to clear. They live in lavish apartments that they can barely afford to pay rent for. Others merely survive by relying on their family wealth and inheritance.
+
+While it may seem like they are doing better than you, you might be shocked to find out that they are spending sleepless nights hiding from creditors. 
+
+You might be shocked to learn that they have stuck in a vicious cycle of poverty with no light at the end of the tunnel. 
+
+The best kind of growth is the one that comes gradually.
+
+Much as it is good to fuel your growth through credit-finance, always make sure you have a healthy debt to equity ratio. This will help you enjoy life more, be more stable, achieve a better credit rating and above all achieve long-term financial success.
+
+*Final Word*
+
+Have you ever found yourself at a point when you felt like everyone else was doing better than you? 
+
+Well, always remember that:
+
+(1) Your best is yet to come
+
+(2) There are so many reasons to be grateful
+
+(3) At least you are not living a lie
+
+(4) You have got everything it takes to succeed
+
+(5) Life is a marathon, not a sprint.
+
+And again don't ever compare your success and failure and status to that of others. It won't do you any good.
+
+
+Justine Nyachieo
+Business Man & Mentor
++254754839228
+12/09/2022, 16:59 - Nickolas: We should make sure he's compensated for his work, we all know how much a mobile application is worth, the university should put something into our boy's pocket, unless they have done so already... 
+Kudos Dun...
+25/09/2022, 15:02 - Nickolas: IMG-20220925-WA0004.jpg (file attached)
+Hello guys, kindly help me tackle this...
+25/09/2022, 15:03 - Nickolas: import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+class FileReader{
+	public static void main(String[] args){
+		try{
+			File myObj = new File("filename.txt");
+            Scanner myReader = new Scanner(myObj);
+			
+			while(myReader.hasNextLine()){
+				String data = myReader.nextLine();
+			    Pattern pattern = Pattern.compile("12/09/2022", Pattern.CASE_INSENSITIVE);
+			    Matcher matcher = pattern.matcher("filename.txt");
+                boolean matchFound = matcher.find();
+				if(matchFound){
+            System.out.println("Match found");
+        }
+        else{
+            System.out.println("Match not found");
+        }
+         System.out.println(data);   
+		}
+		myReader.close();
+		}
+		catch(FileNotFoundException e) {
+			System.out.println("An error occured");
+            e.printStackTrace();
+		}
+	}
+}
+25/09/2022, 15:03 - Nickolas: This is how far I've gone...
+25/09/2022, 16:21 - Nickolas: There are many ways it depends on how what you're centering
+26/09/2022, 10:21 - Nickolas: Anyone...
